@@ -1,0 +1,43 @@
+#service{
+
+
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.main{
+
+    color: red;
+}
+
+#vip{
+    background-color: rgb(41, 167, 209);
+    margin: 60px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#vip button{
+    background-color: aquamarine;
+}
+
+#vip:hover{
+    background-color: aliceblue;
+}
+#serv{
+
+    display: flex;
+}
+.sub{
+
+    text-align: center;
+    background-color: aqua;
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+
+.sub:hover{
+    background-color: bisque;
+}
